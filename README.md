@@ -4,6 +4,10 @@
 
 ## Border
 
+### Border Animation
+
+- Tutorial: Visit [link](https://www.youtube.com/watch?v=1u-ol271d7Q&t=6s)
+
 ### Inverted Border-radius Card
 
 - Tutorial: Visit [link](https://www.youtube.com/watch?v=khjVPkO35F0&list=PL8vaWihdLyMNmuNWazoA8KKnzwQYOyUdX&index=1&t=13s)
